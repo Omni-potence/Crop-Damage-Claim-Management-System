@@ -197,3 +197,41 @@ Both the Flutter mobile application and the React web dashboard are designed to 
 *   **User Management:** User profiles (including roles) are managed in Firestore's `users` collection, linked by Firebase Authentication UIDs.
 
 This shared backend ensures a seamless flow of information between the farmer-facing mobile application and the officer-facing web dashboard.
+
+## 📸 Screenshots
+
+### Flutter Mobile Application
+![App Dashboard](screenshots/app%20dashboard.png)
+![App Language Selection](screenshots/app%20laguage%20selection.png)
+![App Login](screenshots/app%20login.png)
+![Form Filling](screenshots/form%20filling.png)
+![Third Screen](screenshots/third.png)
+
+### React Web Dashboard
+![Webapp Approve/Reject](screenshots/webapp%20approv-ereject.png)
+![Webapp Claim Details](screenshots/webapp%20claim%20details.png)
+![Webapp Dashboard](screenshots/webapp%20dashboard.png)
+
+## License
+
+MIT License
+
+Copyright (c) 2025 Mital Talhan
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
