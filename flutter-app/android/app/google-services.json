@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "923575873853",
+    "project_id": "mcqs-2363f",
+    "storage_bucket": "mcqs-2363f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923575873853:android:0550e37e36b91ed18d1554",
+        "android_client_info": {
+          "package_name": "com.example.crop_damage_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923575873853-irpl2l8259tqbt7ipsbj1i2r33dmpvef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crop_damage_app",
+            "certificate_hash": "8fda6a2f2cca02432003610a512474ac89ae30ee"
+          }
+        },
+        {
+          "client_id": "923575873853-nqie03i9n9b8cv9lu6detghtmod67ofc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLZE9xtbyTvCnaZBbEc2UFbfLNXPMsgow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923575873853-nqie03i9n9b8cv9lu6detghtmod67ofc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
