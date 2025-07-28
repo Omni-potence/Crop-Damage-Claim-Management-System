@@ -41,48 +41,48 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBLZE9xtbyTvCnaZBbEc2UFbfLNXPMsgow',
-    appId: '1:923575873853:web:0550e37e36b91ed18d1554',
-    messagingSenderId: '923575873853',
-    projectId: 'mcqs-2363f',
-    authDomain: 'mcqs-2363f.firebaseapp.com',
-    storageBucket: 'mcqs-2363f.firebasestorage.app',
-    measurementId: 'G-QS0QG79JXF',
+    apiKey: '',
+    appId: '1:web:',
+    messagingSenderId: ',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
+    measurementId: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBLZE9xtbyTvCnaZBbEc2UFbfLNXPMsgow',
-    appId: '1:923575873853:android:0550e37e36b91ed18d1554',
-    messagingSenderId: '923575873853',
-    projectId: 'mcqs-2363f',
-    storageBucket: 'mcqs-2363f.firebasestorage.app',
+    apiKey: '',
+    appId: '1:android',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBLZE9xtbyTvCnaZBbEc2UFbfLNXPMsgow',
-    appId: '1:923575873853:ios:0550e37e36b91ed18d1554',
-    messagingSenderId: '923575873853',
-    projectId: 'mcqs-2363f',
-    storageBucket: 'mcqs-2363f.firebasestorage.app',
-    iosBundleId: 'com.example.cropDamageApp',
+    apiKey: '',
+    appId: '1::ios',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDsFz_Vft7tzxKPGjtYResgqY2IipcO7K4',
-    appId: '1:685017752759:ios:4ce0d7e4e2e50722945932',
-    messagingSenderId: '685017752759',
-    projectId: 'myap-c427b',
-    storageBucket: 'myap-c427b.firebasestorage.app',
-    iosBundleId: 'com.example.cropDamageApp',
+    apiKey: ',
+    appId: '1::ios:',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyA6TXTuc9BX5NF40HPvukBP6dpfMJyNZEY',
-    appId: '1:685017752759:web:8ed979c93ce85bad945932',
-    messagingSenderId: '685017752759',
-    projectId: 'myap-c427b',
-    authDomain: 'myap-c427b.firebaseapp.com',
-    storageBucket: 'myap-c427b.firebasestorage.app',
-    measurementId: 'G-624D05GCFN',
+    apiKey: '',
+    appId: '1:web',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
+    measurementId: '',
   );
 }
