@@ -40,6 +40,7 @@ class DefaultFirebaseOptions {
     }
   }
 
+  //Add Your Web Key
   static const FirebaseOptions web = FirebaseOptions(
     apiKey: '',
     appId: '1:web:',
@@ -50,6 +51,7 @@ class DefaultFirebaseOptions {
     measurementId: '',
   );
 
+  //Add Your Android Key
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: '',
     appId: '1:android',
@@ -58,6 +60,7 @@ class DefaultFirebaseOptions {
     storageBucket: '',
   );
 
+  //Add Your Ios Key
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: '',
     appId: '1::ios',
@@ -67,6 +70,7 @@ class DefaultFirebaseOptions {
     iosBundleId: '',
   );
 
+  //Add Your Macos Key
   static const FirebaseOptions macos = FirebaseOptions(
     apiKey: ',
     appId: '1::ios:',
@@ -76,6 +80,7 @@ class DefaultFirebaseOptions {
     iosBundleId: '',
   );
 
+  //Add Your Windows Key
   static const FirebaseOptions windows = FirebaseOptions(
     apiKey: '',
     appId: '1:web',
